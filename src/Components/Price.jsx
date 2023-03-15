@@ -1,13 +1,13 @@
-import { BorderBottom } from "@mui/icons-material";
+
 import { Box, Button, Checkbox, Grid, Typography } from "@mui/material";
-import { display } from "@mui/system";
+
 import React from "react";
 import Heading from "./Heading";
 const styles = {
   root: {
-    // border: '2px solid',
+  
     background:'linear-gradient(180deg, #E1022B 0%, #EE3A00 10.94%, #F4B449 34.9%, #E3598F 58.85%, #22AD9A 79.69%, #589D65 100%',
-    // borderImageSlice: 1,
+  
     borderRadius: '2rem',
     padding: '.1rem 0',
   },
